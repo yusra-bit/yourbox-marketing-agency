@@ -6,7 +6,8 @@
 #home-section{
     animation: transitionIn 0.75s;
 }
-#service-section{
+#service-section, 
+#footer-section{
     animation: transition 1s;
 }
 @keyframes transitionIn {
